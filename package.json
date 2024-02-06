@@ -1,0 +1,26 @@
+{
+  "name": "ramen-syndrome_npm",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramen-Syndrome/Ramen-Syndrome_npm.git"
+  },
+  "keywords": [
+    "js",
+    "3team",
+    "npm",
+    "sales",
+    "project"
+  ],
+  "author": "ramen-syndrome",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ramen-Syndrome/Ramen-Syndrome_npm/issues"
+  },
+  "homepage": "https://github.com/Ramen-Syndrome/Ramen-Syndrome_npm#readme"
+}
